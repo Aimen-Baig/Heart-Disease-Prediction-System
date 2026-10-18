@@ -1,0 +1,304 @@
+AgeGroup,Sex,ChestPain,MaxHeartRate,HeartDisease
+Senior,Male,Typical Angina,Medium,No
+Senior,Male,Asymptomatic,Low,Yes
+Senior,Male,Asymptomatic,Medium,Yes
+Young,Male,Non-Anginal Pain,High,No
+Young,Female,Atypical Angina,High,No
+Middle,Male,Atypical Angina,High,No
+Senior,Female,Asymptomatic,High,Yes
+Middle,Female,Asymptomatic,High,No
+Senior,Male,Asymptomatic,Medium,Yes
+Middle,Male,Asymptomatic,High,Yes
+Middle,Male,Asymptomatic,Medium,No
+Middle,Female,Atypical Angina,High,No
+Middle,Male,Non-Anginal Pain,Medium,Yes
+Young,Male,Atypical Angina,High,No
+Middle,Male,Non-Anginal Pain,High,No
+Middle,Male,Non-Anginal Pain,High,No
+Middle,Male,Atypical Angina,High,Yes
+Middle,Male,Asymptomatic,High,No
+Middle,Female,Non-Anginal Pain,Medium,No
+Middle,Male,Atypical Angina,High,No
+Senior,Male,Typical Angina,Medium,No
+Middle,Female,Typical Angina,High,No
+Middle,Male,Atypical Angina,High,Yes
+Middle,Male,Non-Anginal Pain,High,Yes
+Senior,Male,Asymptomatic,Medium,Yes
+Middle,Female,Non-Anginal Pain,High,No
+Middle,Female,Non-Anginal Pain,High,No
+Senior,Female,Typical Angina,Low,No
+Young,Male,Asymptomatic,High,No
+Young,Male,Asymptomatic,Low,Yes
+Senior,Female,Typical Angina,High,No
+Senior,Male,Asymptomatic,High,Yes
+Senior,Male,Non-Anginal Pain,High,Yes
+Middle,Male,Asymptomatic,High,No
+Young,Male,Non-Anginal Pain,High,No
+Young,Male,Asymptomatic,High,No
+Young,Male,Asymptomatic,Medium,Yes
+Middle,Male,Asymptomatic,Low,Yes
+Middle,Male,Asymptomatic,Medium,Yes
+Senior,Male,Non-Anginal Pain,Medium,No
+Senior,Female,Asymptomatic,Low,Yes
+Young,Male,Typical Angina,High,No
+Senior,Female,Atypical Angina,High,No
+Middle,Male,Non-Anginal Pain,High,No
+Senior,Female,Asymptomatic,High,Yes
+Middle,Male,Non-Anginal Pain,High,Yes
+Middle,Male,Non-Anginal Pain,Medium,No
+Middle,Male,Asymptomatic,Medium,Yes
+Senior,Female,Non-Anginal Pain,High,No
+Middle,Male,Non-Anginal Pain,High,No
+Young,Female,Atypical Angina,High,No
+Senior,Male,Asymptomatic,Medium,No
+Young,Male,Asymptomatic,High,Yes
+Young,Male,Atypical Angina,High,No
+Senior,Male,Asymptomatic,Medium,Yes
+Middle,Male,Asymptomatic,Low,Yes
+Middle,Male,Non-Anginal Pain,High,Yes
+Young,Male,Asymptomatic,High,Yes
+Middle,Male,Non-Anginal Pain,High,No
+Middle,Male,Typical Angina,Medium,No
+Middle,Female,Asymptomatic,Medium,Yes
+Middle,Female,Non-Anginal Pain,High,No
+Middle,Male,Asymptomatic,Medium,Yes
+Middle,Female,Non-Anginal Pain,High,No
+Middle,Male,Asymptomatic,Low,Yes
+Senior,Male,Asymptomatic,Medium,Yes
+Senior,Male,Non-Anginal Pain,High,Yes
+Middle,Male,Non-Anginal Pain,High,No
+Middle,Male,Asymptomatic,Medium,Yes
+Middle,Male,Non-Anginal Pain,Medium,Yes
+Senior,Female,Non-Anginal Pain,Medium,No
+Senior,Male,Asymptomatic,High,Yes
+Senior,Male,Asymptomatic,Low,Yes
+Senior,Male,Asymptomatic,High,Yes
+Young,Male,Asymptomatic,High,Yes
+Senior,Female,Non-Anginal Pain,High,No
+Senior,Male,Asymptomatic,Medium,Yes
+Middle,Female,Non-Anginal Pain,Medium,No
+Middle,Male,Atypical Angina,High,No
+Middle,Male,Asymptomatic,Low,Yes
+Middle,Male,Asymptomatic,Medium,No
+Middle,Female,Asymptomatic,Medium,No
+Young,Male,Non-Anginal Pain,High,No
+Senior,Male,Non-Anginal Pain,Medium,Yes
+Middle,Male,Atypical Angina,High,No
+Young,Male,Non-Anginal Pain,High,No
+Middle,Male,Non-Anginal Pain,High,No
+Middle,Female,Non-Anginal Pain,Low,No
+Middle,Female,Asymptomatic,High,No
+Middle,Female,Non-Anginal Pain,Medium,No
+Senior,Male,Asymptomatic,High,No
+Senior,Female,Asymptomatic,Medium,Yes
+Senior,Male,Non-Anginal Pain,Medium,No
+Young,Female,Non-Anginal Pain,High,No
+Senior,Female,Non-Anginal Pain,High,No
+Middle,Male,Asymptomatic,High,Yes
+Middle,Male,Asymptomatic,Medium,Yes
+Senior,Female,Asymptomatic,High,Yes
+Middle,Male,Atypical Angina,High,No
+Middle,Male,Asymptomatic,High,No
+Middle,Male,Asymptomatic,High,No
+Young,Male,Typical Angina,High,No
+Middle,Female,Asymptomatic,High,No
+Senior,Female,Non-Anginal Pain,Medium,No
+Middle,Male,Non-Anginal Pain,Medium,Yes
+Middle,Male,Atypical Angina,High,No
+Middle,Male,Asymptomatic,High,Yes
+Middle,Male,Non-Anginal Pain,Medium,Yes
+Senior,Male,Asymptomatic,Medium,Yes
+Young,Male,Asymptomatic,Medium,Yes
+Senior,Female,Asymptomatic,Medium,Yes
+Middle,Male,Asymptomatic,Medium,Yes
+Middle,Male,Typical Angina,High,No
+Young,Female,Asymptomatic,Medium,Yes
+Senior,Female,Non-Anginal Pain,Low,Yes
+Young,Male,Atypical Angina,Medium,No
+Middle,Male,Non-Anginal Pain,High,No
+Young,Female,Asymptomatic,High,No
+Senior,Male,Asymptomatic,Medium,Yes
+Senior,Male,Asymptomatic,Medium,Yes
+Middle,Male,Asymptomatic,Medium,Yes
+Senior,Female,Asymptomatic,High,Yes
+Middle,Male,Non-Anginal Pain,Medium,No
+Middle,Male,Asymptomatic,Low,Yes
+Senior,Male,Typical Angina,High,Yes
+Middle,Female,Atypical Angina,High,No
+Middle,Female,Asymptomatic,Medium,Yes
+Middle,Male,Asymptomatic,Medium,Yes
+Young,Male,Atypical Angina,High,No
+Senior,Female,Asymptomatic,High,No
+Middle,Male,Non-Anginal Pain,Medium,No
+Middle,Male,Non-Anginal Pain,High,No
+Young,Male,Atypical Angina,High,No
+Middle,Male,Asymptomatic,High,No
+Young,Female,Non-Anginal Pain,High,No
+Middle,Female,Atypical Angina,High,No
+Senior,Male,Asymptomatic,Medium,Yes
+Senior,Male,Atypical Angina,Low,Yes
+Young,Male,Asymptomatic,Medium,Yes
+Middle,Male,Non-Anginal Pain,High,No
+Middle,Male,Atypical Angina,High,No
+Middle,Male,Typical Angina,High,Yes
+Middle,Male,Atypical Angina,High,No
+Senior,Male,Non-Anginal Pain,Medium,Yes
+Middle,Male,Non-Anginal Pain,High,No
+Middle,Male,Non-Anginal Pain,High,Yes
+Middle,Male,Asymptomatic,Medium,Yes
+Young,Male,Non-Anginal Pain,High,No
+Middle,Male,Atypical Angina,High,No
+Senior,Female,Non-Anginal Pain,High,No
+Middle,Male,Typical Angina,High,No
+Young,Female,Asymptomatic,Medium,No
+Senior,Female,Non-Anginal Pain,High,No
+Middle,Male,Asymptomatic,Medium,Yes
+Senior,Male,Asymptomatic,Low,Yes
+Senior,Male,Asymptomatic,Low,Yes
+Middle,Male,Asymptomatic,High,Yes
+Middle,Male,Asymptomatic,High,Yes
+Senior,Male,Asymptomatic,High,Yes
+Senior,Male,Non-Anginal Pain,High,No
+Middle,Male,Atypical Angina,High,No
+Senior,Male,Asymptomatic,High,Yes
+Middle,Female,Non-Anginal Pain,High,No
+Middle,Female,Asymptomatic,Medium,No
+Middle,Male,Non-Anginal Pain,High,No
+Middle,Male,Asymptomatic,High,No
+Middle,Male,Non-Anginal Pain,High,No
+Middle,Female,Atypical Angina,High,No
+Young,Male,Asymptomatic,High,Yes
+Middle,Female,Atypical Angina,Medium,No
+Senior,Male,Non-Anginal Pain,Low,Yes
+Middle,Male,Asymptomatic,Low,No
+Middle,Female,Asymptomatic,Medium,Yes
+Senior,Female,Asymptomatic,High,No
+Senior,Male,Asymptomatic,Medium,Yes
+Middle,Male,Asymptomatic,Low,Yes
+Middle,Male,Asymptomatic,Medium,No
+Middle,Male,Asymptomatic,Low,Yes
+Young,Male,Non-Anginal Pain,High,No
+Middle,Male,Non-Anginal Pain,High,No
+Middle,Male,Asymptomatic,High,Yes
+Middle,Female,Asymptomatic,Medium,Yes
+Young,Male,Typical Angina,High,No
+Middle,Male,Typical Angina,Medium,No
+Senior,Female,Asymptomatic,High,Yes
+Senior,Female,Atypical Angina,High,No
+Young,Male,Non-Anginal Pain,High,No
+Senior,Male,Atypical Angina,Medium,Yes
+Middle,Male,Atypical Angina,High,Yes
+Senior,Male,Non-Anginal Pain,Medium,Yes
+Middle,Male,Non-Anginal Pain,High,No
+Middle,Male,Asymptomatic,Medium,Yes
+Young,Male,Asymptomatic,Medium,Yes
+Senior,Female,Asymptomatic,Low,Yes
+Senior,Female,Non-Anginal Pain,Low,No
+Senior,Male,Asymptomatic,Medium,Yes
+Senior,Male,Typical Angina,Medium,No
+Middle,Female,Asymptomatic,High,No
+Middle,Female,Atypical Angina,High,No
+Middle,Male,Typical Angina,Medium,Yes
+Middle,Female,Asymptomatic,High,No
+Senior,Female,Asymptomatic,High,No
+Middle,Male,Non-Anginal Pain,High,No
+Senior,Female,Non-Anginal Pain,Medium,No
+Young,Male,Asymptomatic,High,No
+Middle,Male,Asymptomatic,Medium,Yes
+Middle,Male,Asymptomatic,Medium,Yes
+Middle,Male,Asymptomatic,Medium,Yes
+Middle,Male,Atypical Angina,High,No
+Senior,Female,Asymptomatic,High,Yes
+Young,Female,Non-Anginal Pain,High,No
+Young,Male,Typical Angina,High,Yes
+Young,Male,Non-Anginal Pain,High,No
+Senior,Female,Asymptomatic,High,Yes
+Middle,Male,Asymptomatic,High,Yes
+Middle,Male,Typical Angina,High,No
+Middle,Female,Atypical Angina,High,No
+Middle,Female,Asymptomatic,High,No
+Senior,Female,Asymptomatic,Medium,No
+Middle,Male,Asymptomatic,High,No
+Young,Female,Non-Anginal Pain,High,No
+Middle,Female,Non-Anginal Pain,High,No
+Young,Female,Non-Anginal Pain,High,No
+Middle,Male,Asymptomatic,Low,Yes
+Senior,Female,Asymptomatic,High,Yes
+Young,Female,Atypical Angina,High,No
+Middle,Male,Asymptomatic,Medium,No
+Senior,Female,Non-Anginal Pain,High,No
+Middle,Male,Asymptomatic,Low,Yes
+Senior,Male,Asymptomatic,Medium,Yes
+Middle,Female,Non-Anginal Pain,High,No
+Middle,Female,Asymptomatic,Low,Yes
+Middle,Male,Non-Anginal Pain,Medium,Yes
+Senior,Female,Atypical Angina,Medium,No
+Middle,Female,Non-Anginal Pain,High,No
+Middle,Male,Asymptomatic,Low,Yes
+Middle,Male,Asymptomatic,Low,Yes
+Middle,Male,Asymptomatic,Medium,Yes
+Middle,Female,Atypical Angina,High,No
+Young,Male,Atypical Angina,High,No
+Young,Male,Atypical Angina,High,No
+Young,Female,Atypical Angina,High,No
+Middle,Female,Asymptomatic,High,No
+Senior,Male,Typical Angina,Medium,Yes
+Senior,Female,Non-Anginal Pain,Low,No
+Senior,Male,Asymptomatic,Low,Yes
+Middle,Male,Asymptomatic,High,Yes
+Middle,Male,Asymptomatic,Low,Yes
+Middle,Male,Asymptomatic,High,Yes
+Senior,Male,Atypical Angina,Medium,No
+Middle,Male,Asymptomatic,Medium,No
+Middle,Male,Asymptomatic,Low,Yes
+Senior,Male,Asymptomatic,Low,No
+Middle,Female,Non-Anginal Pain,High,No
+Young,Male,Asymptomatic,High,No
+Young,Female,Non-Anginal Pain,High,No
+Senior,Female,Asymptomatic,Medium,No
+Senior,Female,Non-Anginal Pain,Low,No
+Senior,Male,Atypical Angina,Medium,No
+Middle,Male,Atypical Angina,Medium,Yes
+Young,Female,Non-Anginal Pain,Medium,No
+Middle,Female,Atypical Angina,High,Yes
+Senior,Female,Typical Angina,High,No
+Young,Male,Non-Anginal Pain,High,No
+Senior,Male,Asymptomatic,Medium,Yes
+Young,Male,Asymptomatic,Medium,Yes
+Middle,Male,Asymptomatic,High,Yes
+Middle,Male,Non-Anginal Pain,Medium,Yes
+Young,Male,Asymptomatic,High,Yes
+Young,Male,Non-Anginal Pain,Medium,No
+Senior,Male,Asymptomatic,Medium,Yes
+Senior,Male,Asymptomatic,Medium,No
+Middle,Male,Asymptomatic,Medium,Yes
+Senior,Female,Asymptomatic,Medium,No
+Middle,Male,Typical Angina,High,Yes
+Senior,Male,Typical Angina,High,No
+Senior,Female,Non-Anginal Pain,High,No
+Young,Female,Non-Anginal Pain,High,No
+Middle,Male,Atypical Angina,High,Yes
+Middle,Female,Asymptomatic,Medium,No
+Middle,Male,Asymptomatic,Medium,Yes
+Middle,Male,Non-Anginal Pain,High,No
+Middle,Female,Asymptomatic,Medium,Yes
+Young,Male,Atypical Angina,High,No
+Senior,Male,Asymptomatic,High,Yes
+Middle,Male,Asymptomatic,Medium,Yes
+Middle,Female,Asymptomatic,Medium,Yes
+Middle,Male,Atypical Angina,Medium,No
+Middle,Male,Atypical Angina,High,No
+Middle,Male,Atypical Angina,High,No
+Senior,Male,Non-Anginal Pain,Medium,Yes
+Middle,Female,Atypical Angina,High,No
+Young,Male,Asymptomatic,Medium,Yes
+Senior,Male,Asymptomatic,Medium,Yes
+Senior,Female,Asymptomatic,Medium,Yes
+Young,Male,Atypical Angina,High,No
+Middle,Male,Asymptomatic,Low,Yes
+Middle,Female,Asymptomatic,Medium,Yes
+Middle,Male,Typical Angina,Medium,Yes
+Senior,Male,Asymptomatic,Medium,Yes
+Middle,Male,Asymptomatic,Low,Yes
+Middle,Female,Atypical Angina,High,Yes
+Young,Male,Non-Anginal Pain,High,No
